@@ -58,7 +58,9 @@ How a truck or car behaves in a "simulator" is a core fundamental of the game. Y
 
 The part that still surprises me is this- this issue is well known, and all these 14 whole years since ETS2 came out.. I thought I would have found a fix for this. Well, now there is... but it's not perfect:
 
-**DISCLAIMER: this mod has been vibecoded. I know, it's not ideal, but if you really know what you're doing, feel free to properly remake this. All artistic assets have been made by me.**
+**DISCLAIMER: this mod has been vibecoded. Artistic assets have been made by me. 
+
+I know, it's not ideal, but if you really know what you're doing, feel free to properly remake this.**
 
 DISCLAIMER 2: If your anti-virus flags this file... consider changing it.
 
