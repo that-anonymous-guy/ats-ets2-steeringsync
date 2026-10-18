@@ -1,5 +1,3 @@
-# Steering Sync, an American Truck Simulator and Euro Truck Simulator 2 steering animation fix
-
 Made in version **1.61**
 
 ![Steering Sync](steeringsync.png)
