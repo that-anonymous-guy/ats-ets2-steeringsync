@@ -47,7 +47,7 @@ I might try to tweak around and see, but given that I already failed many tweaks
 Honestly I just think that addressing this from the official devs is really overdue.
 How a truck or car behaves in a "simulator" is a core fundamental of the game. But hey, maybe it's me, maybe I'm too used to Assetto Corsa, Iracing...
 
-The part that still surprises me is this- this issue is well known, and all these 14 whole years since ETS2 came out.. nobody fixed it.
+The part that still surprises me is this- this issue is well known, and all these 14 whole years since ETS2 came out.. nobody fixed it. (at least publicly...)
 
 DISCLAIMER: this mod has been vibecoded. I know, it's not ideal, but if you really know what you're doing, feel free to properly remake this.
 
