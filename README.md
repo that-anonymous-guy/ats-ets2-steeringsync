@@ -10,8 +10,11 @@ It basically overrides the "non-linearity" setting visually, so that it does not
 Download: for those not familiar with github, click on "Releases" right of your screen, then choose either the ATS or ETS2 DLL in Assets.
 
 DLL goes here:
+
 **\American Truck Simulator\bin\win_x64\plugins**
+
 **\Euro Truck Simulator 2\bin\win_x64\plugins**
+
 
 If you don't have a "plugins" folder, simply create one.
 
