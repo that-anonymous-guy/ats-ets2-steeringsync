@@ -1,5 +1,5 @@
 # SteeringSync
-SteeringSync makes your physical steering wheel match ATS/ETS2's ones in all circumstances
+SteeringSync is a plugin for American Truck Simulator (ATS) and Euro Truck Simulator 2 (ETS2) that fixes steering wheel animation desynchronization caused by the in-game steering non linearity setting.
 ![Steering Sync](steeringsync.png)
 
 Made in version **1.61**
