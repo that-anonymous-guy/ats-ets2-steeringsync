@@ -37,6 +37,7 @@ and also changes your steering animation.
 
 Given that it changes your device input curve instead of physically simulating a different steering ratio, 
 and as the steering animation simply follows that given input curve, the result is:
+
 you turn your own device's steering wheel X amount of degrees, and ingame it turns visually way less than that.
 Given that I like to drive old petes, and the new mustang, I push the non linearity a little bit further, so it exacerbates the issue.
 
