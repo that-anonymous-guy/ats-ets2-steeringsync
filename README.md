@@ -16,20 +16,20 @@ Right click American Truck Simulator in your Steam library list -> Manage -> Bro
 
 If you don't have a "plugins" folder, simply create one.
 
-I generally use from 50 to 100% of non-linearity personnaly, I like to drive old more floaty trucks.
+I generally use from 50 to 100% of non-linearity personally, I like to drive old more floaty trucks.
 
 Why not a Steam workshop mod? 
-I wish. Exept this is a deeper edit of the game that is simply not possible to publish on Steam.
+I wish. Except this is a deeper edit of the game that is simply not possible to publish on Steam.
 
 You like to read? 
 
 Trucks and cars in American Truck Simulator have way too much sensibility at the center of the steering position. 
 Turning your steering wheel a ridiculous 2 degrees should not make you swerve off your lane. 
 It results in too high of a focus of your position the road, which makes reading useful cabin informations much harder than it should be. 
-This is certainy not how it works in real life for most trucks or cars.
+This is certainly not how it works in real life for most trucks or cars.
 
 So naturally, in order to counter that exact issue.. you changed the ingame setting "steering non-linearity".
-Exept this setting is just badly programmed. 
+Except this setting is just badly programmed. 
 It changes your force feedback (and that is logical -but it's also badly made, anyway-),
 and also changes your steering animation.
 
@@ -44,11 +44,10 @@ What it does not solve is the actual lack of force feedback you will feel at the
 That's another issue and it's way, way harder to solve. 
 I might try to tweak around and see, but given that I already failed many tweaks of this physics engine... yeah.. we'll see.
 
-Honestly I just think that adressing this from the official devs is really overdue.
-How a truck or car behaves in a "simulator" is a core fundemental of the game. But hey, maybe it's me, maybe I'm too used to Assetto Corsa, Iracing...
+Honestly I just think that addressing this from the official devs is really overdue.
+How a truck or car behaves in a "simulator" is a core fundamental of the game. But hey, maybe it's me, maybe I'm too used to Assetto Corsa, Iracing...
 
-The part that still surpises me is that this issue is well known. 
-Which is why I was surprised that I have not found a single guy thought what I thought and adressed it (at least publicly) ... those 14 whole years since ETS2 came out. 
+The part that still surprises me is this- this issue is well known, and all these 14 whole years since ETS2 came out.. nobody fixed it.
 
 DISCLAIMER: this mod has been vibecoded. I know, it's not ideal, but if you really know what you're doing, feel free to properly remake this.
 
