@@ -54,7 +54,7 @@ That's another issue and it's way, way harder to solve.
 I might try to tweak around and see, but given that I already failed many tweaks of this physics engine... yeah.. we'll see.
 
 Honestly I just think that addressing this from the official devs is really overdue.
-How a truck or car behaves in a "simulator" is a core fundamental of the game. You should feel from an old Peterbuilt that you have to turn the steering wheel more to do the same turning radius in meters in comparison to a newer variant. It's just how they were built. It's part of their "personality". But hey, maybe it's me, maybe I'm too used to having this by default in more specific sims like Assetto Corsa, Iracing...
+How a truck or car behaves in a "simulator" is a core fundamental of the game. You should feel from an old Peterbuilt that you have to turn the steering wheel more to accomplish the same turn in comparison to a newer variant. It's just how they were built. It's part of their "personality". But hey, maybe it's me, maybe I'm too used to having this by default in more specific sims like Assetto Corsa, Iracing...
 
 The part that still surprises me is this- this issue is well known, and all these 14 whole years since ETS2 came out.. I thought I would have found a fix for this. Well, now there is... but it's not perfect:
 
