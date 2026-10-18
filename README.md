@@ -1,29 +1,29 @@
 # steeringsync
 American Truck Simulator and Euro Truck Simulator 2 steering animation fix
 
-Made in version 1.61
+Made in version **1.61**
 
 ![Steering Sync](steeringsync.png)
 
 TLDR: This DLL plugin overrides the steering animation to directly follow your own device's directinput.
 It basically overrides the "non-linearity" setting visually, so that it does not slow down your steering animation ingame near the center anymore.
 
-**INSTALLATION**
+## INSTALLATION
 
-**DLL goes here:
-\American Truck Simulator\bin\win_x64\plugins**
+DLL goes here:
+**\American Truck Simulator\bin\win_x64\plugins**
 
-**If you don't know how to access American Truck Simulator's root folder,
-Right click American Truck Simulator in your Steam library list -> Manage -> Browse local files**
+If you don't have a "plugins" folder, simply create one.
 
-**If you don't have a "plugins" folder, simply create one.**
+If you don't know how to access American Truck Simulator's root folder,
+Right click American Truck Simulator in your Steam library list -> Manage -> Browse local files
 
 I generally use from 50 to 100% of non-linearity personally (I like to drive old more floaty trucks), 100% sensitivity, 0% deadzone.
 
 Why not a Steam workshop mod? 
 I wish. Except this is a deeper edit of the game that is simply not possible to publish on Steam.
 
-**You like to read?**
+### You like to read?
 
 Trucks and cars in American Truck Simulator have way too much sensibility at the center of the steering position. 
 Turning your steering wheel a ridiculous 2 degrees should not make you swerve off your lane. 
