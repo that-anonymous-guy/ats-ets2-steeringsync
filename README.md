@@ -6,6 +6,7 @@ American Truck Simulator and Euro Truck Simulator 2 - 1.61
 TLDR: This DLL plugin overrides the steering animation to directly follow your own device's directinput.
 It basically overrides the "non-linearity" setting visually, so that it does not slow down your steering animation ingame near the center anymore.
 
+You like to read? 
 Trucks and cars in American Truck Simulator have way too much sensibility at the center of the steering position. 
 Turning your steering wheel a ridiculous 2 degrees should not make you swerve off your lane. 
 It results in too high of a focus of your position the road, which makes reading useful cabin informations much harder than it should be. 
