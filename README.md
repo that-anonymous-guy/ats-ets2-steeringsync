@@ -16,6 +16,8 @@ Right click American Truck Simulator in your Steam library list -> Manage -> Bro
 
 If you don't have a "plugins" folder, simply create one.
 
+I generally use ~50% of non-linearity personnaly, I like to drive old more floaty trucks.
+
 
 You like to read? 
 
