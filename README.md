@@ -37,8 +37,8 @@ It results in too high of a focus of your position on the road, which makes read
 This is certainly not how it works in real life for most trucks or cars.
 
 So naturally, in order to counter that exact issue.. you changed the ingame setting "steering non-linearity".
-Except this setting is just badly programmed. 
-It changes your force feedback (and that is logical -but it's also badly made, anyway-),
+Except this setting is just oddly programmed. 
+It changes your force feedback (and that is logical -but it's also sus-ly made, anyway-),
 and also changes your steering animation.
 
 Given that it changes your device input curve instead of physically simulating a different steering ratio, 
@@ -54,9 +54,9 @@ That's another issue and it's way, way harder to solve.
 I might try to tweak around and see, but given that I already failed many tweaks of this physics engine... yeah.. we'll see.
 
 Honestly I just think that addressing this from the official devs is really overdue.
-How a truck or car behaves in a "simulator" is a core fundamental of the game. But hey, maybe it's me, maybe I'm too used to Assetto Corsa, Iracing...
+How a truck or car behaves in a "simulator" is a core fundamental of the game. You should feel from an old Peterbuilt that you have to turn the steering wheel more to do the same turning radius in meters in comparison to a newer variant. It's just how they were built. It's part of their "personality". But hey, maybe it's me, maybe I'm too used to having this by default in more specific sims like Assetto Corsa, Iracing...
 
-The part that still surprises me is this- this issue is well known, and all these 14 whole years since ETS2 came out.. nobody fixed it. (at least publicly...)
+The part that still surprises me is this- this issue is well known, and all these 14 whole years since ETS2 came out.. I thought I would have found a fix for this. Well, now there is... but it's not perfect:
 
 **DISCLAIMER: this mod has been vibecoded. I know, it's not ideal, but if you really know what you're doing, feel free to properly remake this. All artistic assets have been made by me.**
 
