@@ -1,9 +1,10 @@
-Made in version **1.61**
-
 ![Steering Sync](steeringsync.png)
 
-TLDR: This DLL plugin overrides the steering animation to directly follow your own device's directinput.
-It basically overrides the "non-linearity" setting visually, so that it does not slow down your steering animation ingame near the center anymore when you touch "non linearity" setting.
+Made in version **1.61**
+
+TLDR: It fixes the steering wheel animation desynchronization caused by the in-game steering non-linearity setting. Your virtual steering wheel follows your physical steering wheel's DirectInput movement, while keeping your preferred non-linearity setting for driving.
+This plugin does not fix force feedback or change vehicle physics.
+
 
 ## INSTALLATION
 
