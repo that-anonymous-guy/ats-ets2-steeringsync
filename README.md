@@ -56,7 +56,7 @@ The part that still surprises me is this- this issue is well known, and all thes
 
 DISCLAIMER 2: If your anti-virus flags this file... consider changing it.
 
-DISCLAIMER 3: this is a pre-pre-pre-alpha. Maybe it won't work as intended, or recognize your specific wheel- I need to do extensive testing. I only have a T500RS.
+DISCLAIMER 3: this is a pre-pre-pre-alpha. Maybe it won't work as intended, or recognize your specific wheel- I need to do extensive testing. It works on my T500RS, and on my friend's G29.
 
 This plugin is under the PolyForm Noncommercial 1.0.0 license. 
 Which means you can freely reuse, edit, do whatever you want, exept make money with it.
