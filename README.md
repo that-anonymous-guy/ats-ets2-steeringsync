@@ -27,7 +27,7 @@ You like to read?
 
 Trucks and cars in American Truck Simulator have way too much sensibility at the center of the steering position. 
 Turning your steering wheel a ridiculous 2 degrees should not make you swerve off your lane. 
-It results in too high of a focus of your position the road, which makes reading useful cabin informations much harder than it should be. 
+It results in too high of a focus of your position on the road, which makes reading useful cabin informations much harder than it should be. 
 This is certainly not how it works in real life for most trucks or cars.
 
 So naturally, in order to counter that exact issue.. you changed the ingame setting "steering non-linearity".
