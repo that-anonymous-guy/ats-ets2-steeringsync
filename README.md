@@ -8,22 +8,22 @@ Made in version 1.61
 TLDR: This DLL plugin overrides the steering animation to directly follow your own device's directinput.
 It basically overrides the "non-linearity" setting visually, so that it does not slow down your steering animation ingame near the center anymore.
 
-INSTALLATION -
+**INSTALLATION**
 
-DLL goes here:
-\American Truck Simulator\bin\win_x64\plugins
+**DLL goes here:
+\American Truck Simulator\bin\win_x64\plugins**
 
-If you don't know how to access American Truck Simulator's root folder,
-Right click American Truck Simulator in your Steam library list -> Manage -> Browse local files
+**If you don't know how to access American Truck Simulator's root folder,
+Right click American Truck Simulator in your Steam library list -> Manage -> Browse local files**
 
-If you don't have a "plugins" folder, simply create one.
+**If you don't have a "plugins" folder, simply create one.**
 
 I generally use from 50 to 100% of non-linearity personally (I like to drive old more floaty trucks), 100% sensitivity, 0% deadzone.
 
 Why not a Steam workshop mod? 
 I wish. Except this is a deeper edit of the game that is simply not possible to publish on Steam.
 
-You like to read? 
+**You like to read?**
 
 Trucks and cars in American Truck Simulator have way too much sensibility at the center of the steering position. 
 Turning your steering wheel a ridiculous 2 degrees should not make you swerve off your lane. 
@@ -51,7 +51,7 @@ How a truck or car behaves in a "simulator" is a core fundamental of the game. B
 
 The part that still surprises me is this- this issue is well known, and all these 14 whole years since ETS2 came out.. nobody fixed it. (at least publicly...)
 
-DISCLAIMER: this mod has been vibecoded. I know, it's not ideal, but if you really know what you're doing, feel free to properly remake this.
+**DISCLAIMER: this mod has been vibecoded. I know, it's not ideal, but if you really know what you're doing, feel free to properly remake this.**
 
 DISCLAIMER 2: If your anti-virus flags this file... consider changing it.
 
