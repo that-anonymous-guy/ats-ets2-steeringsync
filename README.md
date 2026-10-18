@@ -29,7 +29,7 @@ I generally use from 50 to 100% of non-linearity personally (I like to drive old
 Why not a Steam workshop mod? 
 I wish. Except this is a deeper edit of the game that is simply not possible to publish on Steam.
 
-### You like to read?
+## So you like to read?
 
 Trucks and cars in American Truck Simulator have way too much sensibility at the center of the steering position. 
 Turning your steering wheel a ridiculous 2 degrees should not make you swerve off your lane. 
