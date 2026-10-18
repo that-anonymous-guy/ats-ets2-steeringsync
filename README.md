@@ -19,7 +19,7 @@ If you don't have a "plugins" folder, simply create one.
 I generally use ~50% of non-linearity personnaly, I like to drive old more floaty trucks.
 
 Why not a Steam workshop mod? 
-I wish. Exept SCS did not give sufficient resources to make this kind of edit possible on steam. This is a plugin.
+I wish. Exept this is a deeper edit of the game that is simply not possible to publish on Steam.
 
 You like to read? 
 
