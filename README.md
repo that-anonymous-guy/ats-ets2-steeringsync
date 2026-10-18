@@ -16,7 +16,7 @@ Right click American Truck Simulator in your Steam library list -> Manage -> Bro
 
 If you don't have a "plugins" folder, simply create one.
 
-I generally use from 50 to 100% of non-linearity personally, I like to drive old more floaty trucks.
+I generally use from 50 to 100% of non-linearity personally (I like to drive old more floaty trucks), 100% sensitivity, 0% deadzone.
 
 Why not a Steam workshop mod? 
 I wish. Except this is a deeper edit of the game that is simply not possible to publish on Steam.
