@@ -7,7 +7,7 @@ It basically overrides the "non-linearity" setting visually, so that it does not
 
 ## INSTALLATION
 
-Download: for those not familiar with github, click on "Releases" right of your screen, then choose either the ATS or ETS2 one.
+Download: for those not familiar with github, click on "Releases" right of your screen, then choose either the ATS or ETS2 DLL in Assets.
 
 DLL goes here:
 **\American Truck Simulator\bin\win_x64\plugins**
