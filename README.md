@@ -9,11 +9,12 @@ It basically overrides the "non-linearity" setting visually, so that it does not
 
 DLL goes here:
 **\American Truck Simulator\bin\win_x64\plugins**
+**\Euro Truck Simulator 2\bin\win_x64\plugins**
 
 If you don't have a "plugins" folder, simply create one.
 
-If you don't know how to access American Truck Simulator's root folder,
-Right click American Truck Simulator in your Steam library list -> Manage -> Browse local files
+If you don't know how to access ATS/ETS2's root folders,
+Right click American Truck Simulator/Euro Truck Simulator 2 in your Steam library list -> Manage -> Browse local files
 
 I generally use from 50 to 100% of non-linearity personally (I like to drive old more floaty trucks), 100% sensitivity, 0% deadzone.
 
