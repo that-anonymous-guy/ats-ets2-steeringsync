@@ -1,5 +1,5 @@
 # steeringsync
-American Truck Simulator and Euro Truck Simulator steering animation fix
+American Truck Simulator and Euro Truck Simulator 2 steering animation fix
 
 American Truck Simulator and Euro Truck Simulator 2 - 1.61
 
