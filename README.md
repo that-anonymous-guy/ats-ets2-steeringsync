@@ -1,7 +1,7 @@
 # steeringsync
 American Truck Simulator and Euro Truck Simulator 2 steering animation fix
 
-American Truck Simulator and Euro Truck Simulator 2 - 1.61
+Made in version 1.61
 
 TLDR: This DLL plugin overrides the steering animation to directly follow your own device's directinput.
 It basically overrides the "non-linearity" setting visually, so that it does not slow down your steering animation ingame near the center anymore.
