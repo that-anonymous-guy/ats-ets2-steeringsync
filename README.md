@@ -1,5 +1,5 @@
-# SteeringSync
-SteeringSync is a plugin for American Truck Simulator and Euro Truck Simulator 2 that fixes steering wheel animation desynchronization caused by the in-game steering non linearity setting.
+# Steering Sync
+Steering Sync is a plugin for American Truck Simulator and Euro Truck Simulator 2 that fixes steering wheel animation desynchronization caused by the in-game steering non linearity setting.
 ![Steering Sync](steeringsync.png)
 
 Made in version **1.61**
