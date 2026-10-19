@@ -4,8 +4,8 @@ SteeringSync is a plugin for American Truck Simulator and Euro Truck Simulator 2
 
 Made in version **1.61**
 
-TLDR: It fixes the steering wheel animation desynchronization caused by the in-game steering non linearity setting. This plugin makes your virtual steering wheel follow your physical steering wheel's DirectInput movement, while keeping your preferred non linearity setting for driving.
-This plugin does not fix force feedback or change vehicle physics.
+TLDR: This is purely a visual fix. This DLL plugin makes your virtual steering wheel follow your physical steering wheel's DirectInput movement, while keeping your preferred non linearity setting for driving.
+This does not affect in any way orce feedback or change vehicle physics.
 
 
 ## INSTALLATION
